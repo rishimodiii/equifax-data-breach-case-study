@@ -1,0 +1,10 @@
+PROJECT FILE NOTES
+
+This submission package is for a research-based case study on the Equifax Data
+Breach (2017). The PDF report is the source document provided by the group.
+The diagrams are illustrative explanatory graphics; they are not original
+forensic evidence and should be checked against authoritative sources before
+final submission.
+
+No runnable application source code or executable exists in the provided
+materials. Do not claim that an executable has been built.
